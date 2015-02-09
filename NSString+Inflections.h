@@ -35,7 +35,7 @@ See the README for instructions on how to use it in your project.
 */
 
 #import <Foundation/Foundation.h>
-#import "RegexKitLite.h"
+#import <RegexKitLite/RegexKitLite.h>
 
 
 @interface NSString (Inflections)
